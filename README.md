@@ -1,4 +1,4 @@
-# myJupyterNotebooks
+# My Jupyter Notebooks
 
 ## The repository to store Jupyter Notebooks for the course PHY3531
 
